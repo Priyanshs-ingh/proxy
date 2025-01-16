@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "proxycurl-js-linkedin-profile-scraper": "^1.0.2"
+  }
+}
