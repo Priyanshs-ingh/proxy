@@ -2,7 +2,7 @@
 
 ## Dashboard Link
 
-[Link to your Power BI dashboard]
+https://app.powerbi.com/groups/deecc4a2-74b8-424a-8385-8c86fd0fb7f0/reports/7d8cfe80-b366-44cb-be54-4392ab2e9498/50be6beb80322ed2d756?experience=power-bi&bookmarkGuid=b8b44a997ef16c3f69d9
 
 ## Project Overview
 
