@@ -62,6 +62,3 @@ The Streamlit app provides a user-friendly interface for custom alumni data anal
 
 [Include screenshots of your Power BI dashboard and Streamlit app]
 
-## Insights
-
-[Describe some key insights derived from your dashboard]
